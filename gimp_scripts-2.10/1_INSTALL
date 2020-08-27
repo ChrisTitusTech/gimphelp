@@ -1,0 +1,87 @@
+TO_INSTALL:
+
+
+
+Put the scripts in :
+
+	Windows 7/10
+	C:\Program Files\GIMP 2\share\gimp\2.0\scripts
+	or
+	C:\Users\YOUR-NAME\AppData\Roaming\GIMP\2.10\scripts
+	
+    
+	Linux
+	/home/yourname/.config/GIMP/2.10/scripts  
+	or
+	Linux system-wide
+	/usr/share/gimp/2.0/scripts
+
+
+
+
+Put the Gimpressionist presets in :
+
+	Windows 7/10
+	C:\Program Files\GIMP 2\share\gimp\2.0\gimpressionist\preset
+	or
+	C:\Users\YOUR-NAME\AppData\Roaming\GIMP\2.10\gimpressionist\presets
+	
+ 
+	Linux
+	/home/yourname/.config/GIMP/2.10/gimpressionist/presets 
+	or
+	Linux - system-wide
+	/usr/share/gimp/2.0/gimpressionist/Presets 
+
+
+
+Put the Gradients in :
+
+	Windows 7/10
+	C:\Program Files\GIMP 2\share\gimp\2.0\gradients
+	or
+	C:\Users\YOUR-NAME\AppData\Roaming\GIMP\2.10\gradients
+	
+    
+	Linux
+	/home/yourname/.config/GIMP/2.10/gradients
+	or
+	Linux - system-wide
+	/usr/share/gimp/2.0/gradients
+	
+	
+
+Put the patterns in :
+
+	Windows 7/10
+	C:\Program Files\GIMP 2\share\gimp\2.0\patterns
+	or
+	C:\Users\YOUR-NAME\AppData\Roaming\GIMP\2.10\patterns
+    
+	
+	Linux
+	/home/yourname/.config/GIMP/2.10/patterns
+	or
+	Linux - system-wide
+	/usr/share/gimp/2.0/patterns
+	
+	
+ Python script installation (plug-ins):
+
+ This script should be placed in the user or system-wide plug-ins folder.
+
+	Windows Vista/7/8/10)
+	C:\Program Files\GIMP 2\lib\gimp\2.0\plug-ins
+	or
+      C:\Users\YOUR-NAME\AppData\Roaming\gimp-2.10\plug-ins
+      (AppData is a hidden directory, you have to "Show Hidden Directories"
+      under folder options in order to see it.)
+	 
+
+	Linux
+      Make sure to set the file as executable!
+
+	/home/yourname/.config/GIMP/2.10/plug-ins
+	or
+	Linux system-wide
+	/usr/lib64/gimp/2.0/plug-ins
